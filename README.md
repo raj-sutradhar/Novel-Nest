@@ -10,8 +10,6 @@ This is a simple online Book Store web application where users can browse books,
 - User Login and Register
 - Browse all books
 - View individual book details
-- Add to cart
-- Place an order
 - Admin can add, edit, and delete books
 
 ---
@@ -21,7 +19,7 @@ This is a simple online Book Store web application where users can browse books,
 - **Frontend:** React.js, CSS
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
-- **Authentication:** JWT
+
 
 ---
 
