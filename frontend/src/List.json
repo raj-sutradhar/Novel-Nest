@@ -1,0 +1,122 @@
+﻿[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "title": "The Art of Programming",
+    "price": 25.99,
+    "category": "Technology",
+    "image": "https://covers.openlibrary.org/b/id/14315081-M.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "title": "Mastering JavaScript",
+    "price": 30.5,
+    "category": "Free",
+    "image": "https://covers.openlibrary.org/b/id/980232-M.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Robert Brown",
+    "title": "History of the World",
+    "price": 18.75,
+    "category": "History",
+    "image": "https://covers.openlibrary.org/b/id/9269962-M.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Emily White",
+    "title": "Cooking Made Easy",
+    "price": 0.0,
+    "category": "Free",
+    "image": "https://covers.openlibrary.org/b/id/12648183-M.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Michael Green",
+    "title": "Artificial Intelligence Basics",
+    "price": 27.99,
+    "category": "Technology",
+    "image": "https://covers.openlibrary.org/b/id/14638562-M.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Sarah Lee",
+    "title": "The Ultimate Travel Guide",
+    "price": 19.99,
+    "category": "Travel",
+    "image": "https://covers.openlibrary.org/b/id/8461797-M.jpg"
+  },
+  {
+    "id": 7,
+    "name": "David Wilson",
+    "title": "Science Explained",
+    "price": 0.0,
+    "category": "Free",
+    "image": "https://covers.openlibrary.org/b/id/12581956-M.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sophia Martin",
+    "title": "Modern Web Development",
+    "price": 34.99,
+    "category": "Technology",
+    "image": "https://covers.openlibrary.org/w/id/8061775-M.jpg"
+  },
+  {
+    "id": 9,
+    "name": "James Carter",
+    "title": "The Art of Meditation",
+    "price": 15.49,
+    "category": "Self-Help",
+    "image": "https://covers.openlibrary.org/w/id/6688027-M.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Olivia Brown",
+    "title": "Healthy Living Guide",
+    "price": 0.0,
+    "category": "Free",
+    "image": "https://covers.openlibrary.org/w/id/7145127-M.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Daniel Evans",
+    "title": "Machine Learning for Beginners",
+    "price": 29.99,
+    "category": "Technology",
+    "image": "https://covers.openlibrary.org/w/id/1019226-M.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Sophia White",
+    "title": "Psychology of Human Behavior",
+    "price": 22.99,
+    "category": "Psychology",
+    "image": "https://covers.openlibrary.org/w/id/640635-M.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Ethan Parker",
+    "title": "Business Strategies for Growth",
+    "price": 0.0,
+    "category": "Free",
+    "image": "https://covers.openlibrary.org/w/id/775613-M.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Emma Johnson",
+    "title": "The Creative Mindset",
+    "price": 17.99,
+    "category": "Self-Help",
+    "image": "https://covers.openlibrary.org/b/id/8148374-M.jpg"
+  },
+  {
+    "id": 15,
+    "name": "William Scott",
+    "title": "Advanced Data Structures",
+    "price": 35.0,
+    "category": "Technology",
+    "image": "https://covers.openlibrary.org/b/id/8458454-M.jpg"
+  }
+]
